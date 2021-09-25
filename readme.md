@@ -58,7 +58,7 @@
 
 [𝖧𝖢𝖨 𝖬𝖾𝗆𝖳𝖾𝗌𝗍 𝖯𝗋𝗈 𝗎𝗋 𝖻𝖾𝗌𝗍 𝖿𝗋𝗂𝖾𝗇𝖽 𝖿𝗈𝗋 𝗌𝗎𝗋𝖾 ][memtestp] & [𝖿𝗋𝖾𝖾 𝗏][memtestfree]
 
-[TM5 ᴀʟsᴏ ɢᴏᴏᴅ ᴡᴀʏ][tm5] 𝗯𝘂𝘁 𝗴𝗲𝘁 𝘀𝗺 𝗰𝗼𝗻𝗳𝗶𝗴𝘀 𝗳𝗼𝗿 𝗶𝘁, 𝗹𝗶𝗸𝗲 [𝐚𝐧𝐭𝐚𝟕𝟕𝟕 𝐞𝐱𝐭𝐫𝐞𝐦𝐞][ant] [𝑎𝑑𝑑𝑜𝑛 𝑡𝘩𝑎𝑡 𝘩𝑒𝑙𝑝𝑠][dang]
+[TM5 ᴀʟsᴏ ɢᴏᴏᴅ ᴡᴀʏ][tm5] 𝗯𝘂𝘁 𝗴𝗲𝘁 𝘀𝗺 𝗰𝗼𝗻𝗳𝗶𝗴𝘀 𝗳𝗼𝗿 𝗶𝘁, 𝗹𝗶𝗸𝗲 𝐚𝐧𝐭𝐚𝟕𝟕𝟕 𝐞𝐱𝐭𝐫𝐞𝐦𝐞 [𝑎𝑑𝑑𝑜𝑛 𝑡𝘩𝑎𝑡 𝘩𝑒𝑙𝑝𝑠][dang]
 
 also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx] 
 
@@ -126,7 +126,6 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 [memtestfree]:https://hcidesign.com/memtest/MemTest.zip
 [tm5]:https://github.com/slew1337/slew1337/raw/main/tm5%20%2B%20configs.7z
 [dang]:https://benchlife.info/runmemtest-4-by-dang-wang-download/
-[ant]:https://github.com/slew1337/slew1337/tree/main/tm5configs
 [mem64]:https://www.techpowerup.com/download/techpowerup-memtest64/
 [kah]:https://www.karhusoftware.com/ramtest/
 [integralfx]:https://github.com/integralfx
