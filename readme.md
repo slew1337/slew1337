@@ -101,12 +101,8 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 <a href="https://discord.gg/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soon" height="30" width="20" /></a>
 </p>
 
-[]:
-[]:
-[]:
-[]:
-[ramman]:https://i.imgur.com/KfzweOE.jpg
 
+[ramman]:https://i.imgur.com/KfzweOE.jpg
 [occ]:https://www.ocbase.com/
 [ranks]:https://docs.google.com/spreadsheets/d/1Xz_rQgNFQF3Dm0yHJBzldVkal5jmfI9Ug9tnpjky5Bc/edit#gid=0
 [1mus]:https://bit.ly/3CqpaOT
