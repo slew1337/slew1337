@@ -1,5 +1,3 @@
-
-
 ![Logo](soon.png)
 
 <h3 align="center"> sᴜᴘ ғᴀᴍ </h3>
@@ -12,11 +10,13 @@
 
 [TᴡɪᴛᴄʜTᴇsᴛ][tw]
 
-[B﹣Dɪᴇ Fɪɴᴅᴇʀ ][bdie] 𝑛𝑒𝑒𝑑 𝑏𝑑𝑖𝑒?
+[B﹣Dɪᴇ Fɪɴᴅᴇʀ ][bdie] 𝑛𝑒𝑒𝑑 𝑏𝑑𝑖𝑒? [𝑎𝑙𝑜𝑠 𝑟𝑎𝑛𝑘𝑠][ranks]
+
+[G.Sᴋɪʟʟ / Cᴏʀsᴀɪʀ / Pᴀᴛʀɪᴏᴛ / Cʀᴜᴄɪᴀʟ  `𝑅𝐴𝑀 𝑚𝑎𝑛𝑢𝑓𝑎𝑐𝑡𝑢𝑟𝑒𝑟`][ramman]
 
 [𝙇𝙤𝙜𝙞𝙩𝙚𝙘𝙝 𝙊𝙈𝙈 `Onboard Memory Manager`][logi]
 
-[Tʜᴀɪᴘʜᴏᴏɴ Bᴜʀɴᴇʀ ][tburn] 𝑘𝑛𝑜𝑤 𝑦𝑜𝑢𝑟 𝑟𝑎𝑚 
+[Tʜᴀɪᴘʜᴏᴏɴ Bᴜʀɴᴇʀ ][tburn] 𝑘𝑛𝑜𝑤 𝑦𝑜𝑢𝑟 𝑟𝑎𝑚
 
 [DRAM Cᴀʟᴄᴜʟᴀᴛᴏʀ ғᴏʀ Rʏᴢᴇɴ][1mus]
 
@@ -66,6 +66,8 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 
 [Mᴇᴍᴛᴇsᴛ64][mem64]
 
+[AIDA64][aid]
+
 <h6 align="center"> MOBO VRM </h6>
 
 [z370][z370]
@@ -99,7 +101,11 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 <a href="https://discord.gg/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soon" height="30" width="20" /></a>
 </p>
 
+[]:
+[ramman]:https://i.imgur.com/KfzweOE.jpg
+[]:
 [occ]:https://www.ocbase.com/
+[ranks]:https://docs.google.com/spreadsheets/d/1Xz_rQgNFQF3Dm0yHJBzldVkal5jmfI9Ug9tnpjky5Bc/edit#gid=0
 [1mus]:https://bit.ly/3CqpaOT
 [fan]:https://www.argusmonitor.com/
 [zent]:https://github.com/irusanov/ZenTimings
@@ -119,9 +125,9 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 [hwinfo]:https://www.hwinfo.com/download/
 [memtestp]:https://hcidesign.com/memtest/purchase.html
 [memtestfree]:https://hcidesign.com/memtest/MemTest.zip
-[tm5]:https://mega.nz/file/vLhxBahB#WwJIpN3mQOaq_XsJUboSIcaMg3RlVBWvFnVspgJpcLY
+[tm5]:https://github.com/slew1337/slew1337/raw/main/tm5%20%2B%20configs.7z
 [dang]:https://benchlife.info/runmemtest-4-by-dang-wang-download/
-[ant]:https://drive.google.com/file/d/1uegPn9ZuUoWxOssCP4PjMjGW9eC_1VJA
+[ant]:https://github.com/slew1337/slew1337/tree/main/tm5configs
 [mem64]:https://www.techpowerup.com/download/techpowerup-memtest64/
 [kah]:https://www.karhusoftware.com/ramtest/
 [integralfx]:https://github.com/integralfx
@@ -136,8 +142,3 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 [z390]:https://i.redd.it/6j8i71dbrxv11.png
 [z490]:https://docs.google.com/spreadsheets/u/0/d/1yPS3hj_K7EPT4RBWCyjdKNP56pnwDz-IgBc0975-FUg/htmlview
 [b550]:https://docs.google.com/spreadsheets/d/1PuUWroxA0HvSSipsXlB8hnYkshxD8LdeO5EA6WLdOQw/edit#gid=0
-
-[Back To The Top](Logo)
-
-<p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslew1337&count_bg=%23A84899&title_bg=%23651C5B&icon=&icon_color=%238F6363&title=hits&edge_flat=true" /> </p>
-
