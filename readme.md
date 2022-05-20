@@ -133,7 +133,7 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 [usbv]:https://www.nirsoft.net/utils/usbdeview.zip
 [nsudo]:https://github.com/M2Team/NSudo/releases
 [merc]:https://github.com/sp0ok3r/Mercury
-[stmm]:https://github.com/minischetti/metro-for-steam/archive/v4.4.zip
+[stmm]:https://github.com/henrikx/metroskininstaller/releases
 [hwinfo]:https://www.hwinfo.com/download/
 [memtestp]:https://hcidesign.com/memtest/purchase.html
 [memtestfree]:https://hcidesign.com/memtest/MemTest.zip
@@ -155,4 +155,5 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 [b550]:https://docs.google.com/spreadsheets/d/1PuUWroxA0HvSSipsXlB8hnYkshxD8LdeO5EA6WLdOQw/edit#gid=0
 
 [Back To The Top](#start)
+
 <p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslew1337&count_bg=%23A84899&title_bg=%23651C5B&icon=&icon_color=%238F6363&title=hits&edge_flat=true" /> </p>
