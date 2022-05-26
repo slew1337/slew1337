@@ -153,7 +153,7 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 [merc]:https://github.com/sp0ok3r/Mercury
 [stmm]:https://github.com/henrikx/metroskininstaller/releases
 [hwinfo]:https://www.hwinfo.com/download/
-[memtestp]:https://hcidesign.com/memtest/purchase.html
+[memtestp]:https://github.com/slew1337/slew1337/raw/main/RunMemTest%20Pro%205.0%20DanWang.7z
 [memtestfree]:https://hcidesign.com/memtest/MemTest.zip
 [tm5]:https://github.com/slew1337/slew1337/raw/main/tm5%20%2B%20configs.7z
 [dang]:https://benchlife.info/runmemtest-4-by-dang-wang-download/
