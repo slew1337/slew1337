@@ -29,7 +29,7 @@
 
 <h4 align="center"> 𝗧𝘄𝗲𝗮𝗸𝘀 </h4>
 
-[ʙᴇsᴛ NVIDIA Dʀɪᴠᴇʀs ɪɴ ᴍʏ ᴏᴘɪɴɪᴏɴ][nvidd]
+[ʙᴇsᴛ NVIDIA Dʀɪᴠᴇʀs ɪɴ ᴍʏ ᴏᴘɪɴɪᴏɴ][nvidd] <a id="nviddrvier"></a>
 
 [PowerSettingsExplorer][pwrexp]
 
@@ -37,11 +37,11 @@
 
 [NSᴜᴅᴏ][nsudo]
 
-[𝖣𝖣𝖴][ddu]
+[𝖣𝖣𝖴][ddu] [`guide`][dduguide]
 
 <h4 align="center"> 𝐎𝐂 </h4>
 
-ᴄᴘᴜ
+ᴄᴘᴜ 𝖘𝖙𝖗𝖊𝖘𝖘
 
 [IɴᴛᴇʟBᴜʀɴTᴇsᴛ][intelb]
 
@@ -61,7 +61,7 @@
 
 [𝖧𝖢𝖨 𝖬𝖾𝗆𝖳𝖾𝗌𝗍 𝖯𝗋𝗈 𝗎𝗋 𝖻𝖾𝗌𝗍 𝖿𝗋𝗂𝖾𝗇𝖽 𝖿𝗈𝗋 𝗌𝗎𝗋𝖾 ][memtestp] & [𝖿𝗋𝖾𝖾 𝗏][memtestfree]
 
-[TM5 ᴀʟsᴏ ɢᴏᴏᴅ ᴡᴀʏ][tm5] 𝗯𝘂𝘁 𝗴𝗲𝘁 𝘀𝗺 𝗰𝗼𝗻𝗳𝗶𝗴𝘀 𝗳𝗼𝗿 𝗶𝘁, 𝗹𝗶𝗸𝗲 [𝐚𝐧𝐭𝐚𝟕𝟕𝟕 𝐞𝐱𝐭𝐫𝐞𝐦𝐞][creds] [𝑎𝑑𝑑𝑜𝑛 𝑡𝘩𝑎𝑡 𝘩𝑒𝑙𝑝𝑠][dang]
+[TM5 ᴀʟsᴏ ɢᴏᴏᴅ ᴡᴀʏ][tm5] 𝗯𝘂𝘁 𝗴𝗲𝘁 𝘀𝗺 𝗰𝗼𝗻𝗳𝗶𝗴𝘀 𝗳𝗼𝗿 𝗶𝘁, 𝗹𝗶𝗸𝗲 [𝐚𝐧𝐭𝐚𝟕𝟕𝟕 𝐞𝐱𝐭𝐫𝐞𝐦𝐞][creds] [𝑎𝑑𝑑𝑜𝑛 𝑡𝘩𝑎𝑡 𝘩𝑒𝑙𝑝𝑠][dang] <a id="tm5"></a>
 
 also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx] 
 
@@ -104,7 +104,26 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 <a href="https://discord.gg/soon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="soon" height="30" width="20" /></a>
 </p>
 
+[𝐁𝐚𝐜𝐤 𝐓𝐨 𝐓𝐡𝐞 𝐓𝐨𝐩](#start)
 
+
+
+
+-updated 26/02/22
+
+
+
+[ʙᴇsᴛ NVIDIA Dʀɪᴠᴇʀs ɪɴ ᴍʏ ᴏᴘɪɴɪᴏɴ](#nviddriver) - `fixed link to 472.12 cuz ever1 claming it as best current driver for cards 1000 and lower ser`
+
+[TM5](https://github.com/slew1337/slew1337/raw/main/tm5%20%2B%20configs.7z) - `add absolut cfg from anta777`  
+
+
+- added
+  - ASUS TurboV Core 1.10.19
+  - ASUS Mem TweakIt 210910
+  - MSI Dragon Ball 1.0.0.08
+  - MSI Dragon Power 1.0.0.06
+  - RunMemTest Pro 5.0
 
 
 
@@ -128,7 +147,7 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 [intelb]:https://www.techpowerup.com/download/intelburntest/
 [tburn]:http://www.softnology.biz/files.html
 [tw]:https://r1ch.net/assets/twitchtest/twitchtest-1.52.zip
-[nvidd]: https://puresoftapps-nvidia.blogspot.com
+[nvidd]:https://puresoftapps-nvidia.blogspot.com/2021/09/nvidia-geforce-graphics-driver-47212.html
 [usbv]:https://www.nirsoft.net/utils/usbdeview.zip
 [nsudo]:https://github.com/M2Team/NSudo/releases
 [merc]:https://github.com/sp0ok3r/Mercury
@@ -143,6 +162,7 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 [integralfx]:https://github.com/integralfx
 [helper]:https://github.com/integralfx/MemTestHelper/releases
 [ddu]:https://www.guru3d.com/files-details/display-driver-uninstaller-download.html
+[dduguide]:https://www.wagnardsoft.com/content/ddu-guide-tutorial
 [inspc]:https://m.majorgeeks.com/files/details/inspectre.html
 [bdie]:https://benzhaomin.github.io/bdiefinder/
 [ddr4]:https://github.com/integralfx/MemTestHelper
@@ -152,7 +172,5 @@ also there is [Mem Test Helper for TM5][helper] from [@integralfx][integralfx]
 [z390]:https://i.redd.it/6j8i71dbrxv11.png
 [z490]:https://docs.google.com/spreadsheets/u/0/d/1yPS3hj_K7EPT4RBWCyjdKNP56pnwDz-IgBc0975-FUg/htmlview
 [b550]:https://docs.google.com/spreadsheets/d/1PuUWroxA0HvSSipsXlB8hnYkshxD8LdeO5EA6WLdOQw/edit#gid=0
-
-[Back To The Top](#start)
 
 <p align="center"> <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fslew1337&count_bg=%23A84899&title_bg=%23651C5B&icon=&icon_color=%238F6363&title=hits&edge_flat=true" /> </p>
